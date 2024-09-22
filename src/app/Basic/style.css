@@ -1,0 +1,11 @@
+h1{
+    color: rgba(236, 184, 10, 0.911);
+    background: rgba(2, 27, 37, 0.678);
+    text-align: center;
+   
+  }
+  body {
+    color: var(--foreground);
+    background: var(--background);
+    font-family: Arial, Helvetica, sans-serif;
+  }
